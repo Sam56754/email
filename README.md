@@ -25,6 +25,7 @@ A simple Python project to connect to your email inbox and fetch messages secure
    nano .env
 
 5. fill the details
+   ```bash
    EMAIL=your_email@gmail.com
    PASSWORD=your gmail app password
 
