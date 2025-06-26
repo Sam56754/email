@@ -1,4 +1,4 @@
-# email
+# Email reader-cli
 program to access email with cryptography
 # Email Project
 
