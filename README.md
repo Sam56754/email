@@ -1,7 +1,4 @@
 # Email reader-cli
-program to access email with cryptography
-# Email Project
-
 A simple Python project to connect to your email inbox and fetch messages securely using encrypted credentials.
 
 ## Setup Instructions
