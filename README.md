@@ -8,7 +8,7 @@ A simple Python project to connect to your email inbox and fetch messages secure
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/email.git
+   git clone https://github.com/Sam56754/email.git
    cd email
 
 2. Create a virtual environment and activate it:
